@@ -39,3 +39,33 @@ body {
   font-size: 6em;
 
 }
+
+.section {
+  padding: 1em 4em;
+  text-align: center;
+}
+
+.section p {
+  font-size: 2em;
+  margin-bottom: 1em;
+}
+
+.section img {
+  height: 5em;
+  width: auto;
+}
+
+.section h3 {
+  font-size: 1em;
+  text-align: left;
+  margin-bottom: 1.5em;
+  margin-left: 1em;
+}
+
+.ul-ingredients {
+  list-style-type: '- ';
+  list-style-position: inside;
+  text-align: left;
+  margin-left: 1em;
+  margin-bottom: 1em;
+}
